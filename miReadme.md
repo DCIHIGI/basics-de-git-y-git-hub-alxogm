@@ -6,9 +6,9 @@ Añadi una linea nueva
 
 Añadir un listado 
 
-a
-b
-c
+a) opción a
+b)opción b
+c)opción c
 d
 e
 
